@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DeepSeek Agent</string>
+    <string name="app_short_name">DS Agent</string>
+    <string name="chat_hint">Type your message…</string>
+    <string name="send">Send</string>
+    <string name="settings">Settings</string>
+    <string name="workspace">Workspace</string>
+    <string name="tools">Tools</string>
+    <string name="approve_tool">Approve tool execution?</string>
+    <string name="approve">Approve</string>
+    <string name="deny">Deny</string>
+    <string name="auto_approve">Auto-approve tools</string>
+    <string name="deepseek_url">DeepSeek Chat URL</string>
+    <string name="xbrowser_package">XBrowser package name</string>
+    <string name="model">Model</string>
+    <string name="max_turns">Max turns</string>
+    <string name="system_prompt">System prompt</string>
+    <string name="save_session">Save session</string>
+    <string name="load_session">Load session</string>
+    <string name="clear_chat">Clear chat</string>
+    <string name="connect_deepseek">Connect to DeepSeek</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting…</string>
+    <string name="login_required">Please login to DeepSeek in the browser</string>
+    <string name="tool_executing">Executing tool…</string>
+    <string name="tool_completed">Tool completed</string>
+    <string name="tool_failed">Tool failed</string>
+    <string name="workspace_path">Workspace path</string>
+    <string name="select_workspace">Select workspace folder</string>
+    <string name="session_saved">Session saved</string>
+    <string name="session_loaded">Session loaded</string>
+</resources>
